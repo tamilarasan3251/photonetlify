@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.wedding {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 30px 20px;
+}
+.wedding img {
+  width: 540px;
+  height: 600px;
+  border-radius: 10px;
+}
